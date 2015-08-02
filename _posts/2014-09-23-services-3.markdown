@@ -2,7 +2,6 @@
 layout: default
 img: phones.png
 category: Services
-title: Reparación y Servicio de Mantenimiento
+title: Insumos y repuestos
 description: |
 ---
-  Años de experiencia y reconocida clientela que abala la calidad del servicio
