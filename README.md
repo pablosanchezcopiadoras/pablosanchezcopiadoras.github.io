@@ -1,6 +1,6 @@
-# Landing Page Jekyll theme
+# Pablo Sanchez Copiadoras
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+Sitio Web basado en Landing Page Jekyll theme
 
 ## How to use
  - Place a image in `/img/services/`
