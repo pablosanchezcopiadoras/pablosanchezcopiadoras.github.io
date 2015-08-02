@@ -1,4 +1,4 @@
-# Pablo Sanchez Copiadoras
+# Pablo Sánchez Copiadoras
 
 Sitio Web basado en Landing Page Jekyll theme
 
