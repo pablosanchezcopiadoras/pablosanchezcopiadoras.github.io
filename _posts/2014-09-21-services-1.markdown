@@ -5,4 +5,11 @@ category: Services
 title: Asesoramiento
 description: |
 ---
-  Para su empresa o comercio
+Para Comercio, Empresa o Instituciones
+
+* Recambio o reparación de equipos con problemas de funcionamiento.
+* Prestación de servicios de mantenimiento.
+* Provisión de insumos y repuestos.  
+* Soluciones de documentos, desde su captura digital, almacenamiento, distribución, copiado e impresión.
+
+De esta forma proveer el equipamiento adecuado, con el mejor análisis de costos y prestación de servicio, cubriendo así las necesidades del cliente. 
