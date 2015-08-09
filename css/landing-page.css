@@ -168,3 +168,8 @@ p.copyright {
 .myck {
     font-weight: bold;
 }
+
+.phone-prefix {
+    color: grey;
+    font-size: 15px;
+}
