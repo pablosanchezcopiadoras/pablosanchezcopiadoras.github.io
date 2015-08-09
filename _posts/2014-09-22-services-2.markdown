@@ -5,4 +5,7 @@ category: Services
 title: Venta y Alquiler
 description: |
 ---
-  Mejor relación precio-calidad
+* Equipos nuevos, semi nuevos, y usados reacondicionados.
++ Full Color / Blanco y Negro.
+* La mejor relación precio - calidad.
+* Presupuestos y planes a medida.
