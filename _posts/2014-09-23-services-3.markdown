@@ -6,4 +6,4 @@ title: Insumos y repuestos
 description: |
 ---
 * Amplio stock.
-* Consultar por todo lo necesario para su equipo.
+Consultar por todo lo necesario para su equipo.
