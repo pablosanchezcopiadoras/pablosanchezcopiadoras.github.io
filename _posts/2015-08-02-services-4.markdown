@@ -5,4 +5,8 @@ category: Services
 title: Reparación y Servicio de Mantenimiento
 description: |
 ---
-  Años de experiencia y reconocida clientela que abala la calidad del servicio
+* Visita técnica
+* Abono mensual
+* Servicio full
+
+Años de experiencia y reconocida clientela avalan la calidad de servicio.
