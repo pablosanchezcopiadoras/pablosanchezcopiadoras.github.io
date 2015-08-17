@@ -5,6 +5,4 @@ category: Services
 title: Insumos y repuestos
 description: |
 ---
-* Amplio stock.
-
-Consultar por todo lo necesario para su equipo.
+Consulte por todo lo necesario para su equipo, especializado en linea Ricoh y otras marcas de primera línea.
