@@ -5,4 +5,4 @@ category: Services
 title: Asesoramiento
 description: |
 ---
-Atención personalizada para el comercio la empresa y o Instituciones, de esta forma proveer el equipamiento adecuado y prestación de servicios con el mejor análisis de costos, cubriendo así todas necesidades del cliente en soluciones de documentos, desde su captura digital, almacenamiento, distribución, copiado e impresión.
+Atención personalizada para el comercio la empresa y/o instituciones, de esta forma proveer el equipamiento adecuado y prestación de servicios con el mejor análisis de costos, cubriendo así todas necesidades del cliente en soluciones de documentos, desde su captura digital, almacenamiento, distribución, copiado e impresión.
