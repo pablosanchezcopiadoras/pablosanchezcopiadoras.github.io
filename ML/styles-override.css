@@ -1,0 +1,17 @@
+body {
+	width: 946px;
+}
+nav,.lead p:nth(1) {
+	display: none !important;
+}
+.lead {
+    margin-bottom: 0;
+}
+.intro-header {
+    background-size: 135%;
+    background-position-y: -100px;
+    height: 590px;
+}
+.img-responsive {
+	margin-top: 55px;
+}
