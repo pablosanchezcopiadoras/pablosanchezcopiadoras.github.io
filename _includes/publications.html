@@ -1,5 +1,5 @@
 <section id="publications">
-	<h2 class="text-center">Promociones</h2>
+	<h2 class="section-title text-center">Promociones</h2>
 	{% for post in site.posts reversed %}
 	  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
 		{% if post.category == 'publications' %}
@@ -16,7 +16,7 @@
 							<div class="lead">{{ post.content }}</div>
 						</div>
 						<div class="col-lg-5 col-lg-offset-2 col-sm-6">
-							<img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+							<img class="img-responsive" src="img/publications/{{ post.img }}" alt="">
 						</div>
 					</div>
 
@@ -51,10 +51,12 @@
 			{% endif %}
 		{% endif %}
 	{% endfor %}
-	<p>
-		Incluye la provisión de insumos, repuestos y servicio técnico. No incluye papel.
-	</p>
-	<p>
-		Los precios mencionados NO incluyen IVA.
-	</p>
+	<div class="text-center">
+		<p>
+			Incluye la provisión de insumos, repuestos y servicio técnico. No incluye papel.
+		</p>
+		<p>
+			Los precios mencionados NO incluyen IVA.
+		</p>
+	</div>
 </section>
