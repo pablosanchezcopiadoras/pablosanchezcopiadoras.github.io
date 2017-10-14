@@ -1,7 +1,7 @@
 ---
 layout: default
 img: venta.jpg
-category: Services
+category: services
 title: Venta y Alquiler
 description: |
 ---

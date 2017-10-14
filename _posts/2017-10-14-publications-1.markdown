@@ -1,7 +1,7 @@
 ---
 layout: default
 img: asesoramiento.jpg
-category: Services
+category: publications
 title: 1 Multifunción Laser B&N, Fotocopiadora, Impresora y Scanner
 description: |
 ---
