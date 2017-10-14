@@ -2,7 +2,7 @@
 layout: default
 img: pub-multifuncion.jpg
 category: publications
-title: 1 Multifunción Laser B&N, Fotocopiadora, Impresora y Scanner
+title: Multifunción Laser B&N, Fotocopiadora, Impresora y Scanner
 description: |
 ---
 * Velocidad: 32/40/42 páginas por minuto
