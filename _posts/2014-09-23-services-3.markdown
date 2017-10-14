@@ -1,7 +1,7 @@
 ---
 layout: default
 img: insumos.jpg
-category: services
+category: Services
 title: Insumos y repuestos
 description: |
 ---

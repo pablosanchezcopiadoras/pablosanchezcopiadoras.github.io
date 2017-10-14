@@ -1,7 +1,7 @@
 ---
 layout: default
 img: reparacion.jpg
-category: services
+category: Services
 title: Reparación y Servicio de Mantenimiento
 description: |
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 img: asesoramiento.jpg
-category: services
+category: Services
 title: Asesoramiento
 description: |
 ---
